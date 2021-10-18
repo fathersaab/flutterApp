@@ -63,7 +63,7 @@ class myAppstate extends State<myApp> {
                 textColor: Colors.white,
                 child: Text(
                   'Do again',
-                  style: TextStyle(fontSize: 20),
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
               ),
             ),
